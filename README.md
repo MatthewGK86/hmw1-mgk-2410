@@ -14,6 +14,6 @@ For this activity (homework) i have a refactored the code for the HORISEON websi
 
 Please preview a screenshot of my website below and a link to my application.
 
-![Horiseon website screenshot](/hmw1-mgk-2410/images/Horiseon-Screenshot.png) "Horiseon website screenshot")
+![Horiseon-Screenshot](https://user-images.githubusercontent.com/92112763/138611081-4a58b65f-563e-4fc8-a579-44ed1cf3a121.png)
 
 https://matthewgk86.github.io/hmw1-mgk-2410/
