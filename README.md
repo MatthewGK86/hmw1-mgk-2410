@@ -1,8 +1,8 @@
 Refactoring code and meeting Accessibility standards
 
-For this activity (homework) i have a refactored the code for the HORISEON website. I have paid close attention to the following and refactored in the following order.
+For this activity (homework) i have refactored the code for the HORISEON website. I have paid close attention to the following and refactored in the following order.
 
-1. HEAD - I gave a TITLE which is concise and descriptive
+1. HEAD - I gave a TITLE which is concise and descriptive.
 
 2. STRUCTURE - I gave the BODY of my code a structual order of HEADER, MAIN, ASIDE and FOOTER. This has made it easy to navigate through the different sections of the webpage when inspecting the code.
 
